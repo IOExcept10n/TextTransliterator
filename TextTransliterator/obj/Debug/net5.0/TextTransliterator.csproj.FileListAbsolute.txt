@@ -1,0 +1,16 @@
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.AssemblyInfo.cs
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\bin\Debug\net5.0\TextTransliterator.exe
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\bin\Debug\net5.0\TextTransliterator.deps.json
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\bin\Debug\net5.0\TextTransliterator.runtimeconfig.json
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\bin\Debug\net5.0\TextTransliterator.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\bin\Debug\net5.0\TextTransliterator.dll
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\bin\Debug\net5.0\ref\TextTransliterator.dll
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\bin\Debug\net5.0\TextTransliterator.pdb
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.dll
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\ref\TextTransliterator.dll
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.pdb
+C:\Users\ivano\source\repos\TextTransliterator\TextTransliterator\obj\Debug\net5.0\TextTransliterator.genruntimeconfig.cache
