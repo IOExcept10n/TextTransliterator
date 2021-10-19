@@ -34,7 +34,7 @@ namespace TextTransliterator
         /// <inheritdoc/>
         public override string ToString()
         {
-            string ret = " : ";
+            string ret = "";
             Aliases.ToList().ForEach(x => ret += x + " , ");
             return ret[..^3];
         }
